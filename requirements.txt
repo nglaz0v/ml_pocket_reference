@@ -1,4 +1,5 @@
 #auto-sklearn
+bokeh==3.6.2
 catboost==1.2.8
 category-encoders==2.7.0
 dtreeviz==2.2.2
@@ -18,13 +19,14 @@ numpy==1.25.2
 openpyxl==3.1.5
 pandas==1.5.3
 #PDPbox
-phate
+phate==1.0.11
 #pydotplus
 pyjanitor==0.25.0
 #rfpimp
 scikit-learn==1.2.2
 scikit-plot==0.3.7
 scipy==1.10.1
+scprep==1.2.3
 seaborn==0.12.2
 shap==0.47.2
 statsmodels==0.14.4
