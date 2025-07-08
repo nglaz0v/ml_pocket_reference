@@ -20,7 +20,7 @@ pandas==1.5.3
 PDPbox
 phate
 pydotplus
-#pyjanitor==0.25.0
+pyjanitor==0.25.0
 rfpimp
 scikit-learn==1.2.2
 scikit-plot==0.3.7
