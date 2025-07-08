@@ -21,7 +21,7 @@ PDPbox
 phate
 pydotplus
 pyjanitor==0.25.0
-rfpimp
+#rfpimp
 scikit-learn==1.2.2
 scikit-plot==0.3.7
 scipy==1.10.1
