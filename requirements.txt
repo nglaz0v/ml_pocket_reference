@@ -4,7 +4,7 @@ category-encoders==2.7.0
 dtreeviz==2.2.2
 eli5
 fancyimpute
-fastai
+#fastai
 featuretools
 glmnet-py
 graphviz==0.20.3
