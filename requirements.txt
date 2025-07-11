@@ -11,7 +11,7 @@ glmnet-py
 graphviz==0.20.3
 hdbscan
 imbalanced-learn==0.12.4
-#lime
+lime==0.2.0.1
 matplotlib==3.6.0
 missingno==0.5.2
 mlxtend==0.23.1
@@ -22,7 +22,7 @@ pandas==1.5.3
 phate==1.0.11
 #pydotplus
 pyjanitor==0.25.0
-#rfpimp
+rfpimp==1.3.7
 scikit-learn==1.2.2
 scikit-plot==0.3.7
 scipy==1.10.1
@@ -31,7 +31,7 @@ seaborn==0.12.2
 shap==0.47.2
 statsmodels==0.14.4
 TPOT==0.12.2
-#treeinterpreter
+treeinterpreter==0.2.3
 umap-learn==0.5.7
 xgbfir==0.3.1
 xgboost==3.0.0
